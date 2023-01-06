@@ -1,0 +1,42 @@
+//In order for this to work, it is imperative that I do
+//
+//An ideal situation would be that the end result Would 
+//be such that a GUI interface would allow the creation 
+//of a graph or simple 3D rendering which would 
+//represent A garden or growing space, or series of 
+//gardens or growing spaces. This in turn would be 
+//linked with a number of data files. The data files 
+//Would include, indoor or outdoor, latitude and 
+//longitude, soil 'type/types' hardiness zones linked 
+//by 'zip-code/postcode/or other geographical division' 
+//or user input hardiness zone, condition of areas from 
+//previous years. What was done to the soil at the close 
+//of the previous growing season, list of pests which 
+//are prevalent in the area, user submitted pest 
+//occurrences, plant diseases which are prevalent in the 
+//area, user submitted plant disease occurrences in the 
+//area. diseases that affected which type of plants in 
+//previous years, pests which attacked which plants in 
+//previous years, 
+//Data set of plants with planting times, instructions, 
+//days till harvest, pest tolerance or sensitivities, 
+//disease tolerance or sensitivities, moisture 
+//requirements, plants with positive interaction, 
+//plants which react negatively
+//way to enter soil test results
+//detailed instruction on how to test soils and tell 
+//different types of soil apart
+//short explanation of difficulties involved in gardening 
+//and modifying soil types
+//possible later additions which would include aquaculture
+//Ideally, pulling live data from weather forcasts for the 
+//area and keeping a record of rainfall would be desired. 
+//This could be fed to algorythyms which would return 
+//choices that might include reminders to do certain tasks 
+//such at tilling soil, getting supplies off season when 
+//possible to get better prices, purchasing needed supplies, 
+//starting seeds, transplanting, weeding, hand polinating 
+//when necessary, harvesting, link to possible other 
+//software for homesteading, and overall software for 
+//homesteading time management
+//
